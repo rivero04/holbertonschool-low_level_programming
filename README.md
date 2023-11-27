@@ -10,7 +10,7 @@ This repository stores my solutions to the amazing low-level programming project
 
 
 
-## Acknowledgements :pray:
+## Holberton Projects :pray:
 
 All work contained in this project was completed as part of the curriculum for
 Holberton School. Holberton School is a campus-based full-stack software
