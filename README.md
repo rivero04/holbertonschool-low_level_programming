@@ -1,5 +1,5 @@
 <h1 align="center">Holberton School Low-Level Programming</h1>
-This repository stores my solutions to the amazing low-level programming projects I did at the Holberton Campus.
+Este repositorio almacena mis soluciones a los increíbles proyectos de programación de bajo nivel que realicé en el campus de Holberton.
 
 ---
 
