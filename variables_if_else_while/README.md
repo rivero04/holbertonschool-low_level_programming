@@ -1,1 +1,1 @@
-asaasdadd
+#!/bin/bash
