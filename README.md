@@ -6,3 +6,13 @@ This repository stores my solutions to the amazing low-level programming project
 <p align="center">
 <a target="_blank" href="https://holbertonschool.uy"><img src="https://github.com/monoprosito/holbertonschool-low_level_programming/blob/master/holby.jpg?raw=true"></a>
 </p>
+
+
+
+
+
+
+
+## Author :black_nib:
+
+* Ignacio Rivero <[rivero04](https://github.com/rivero04)>
