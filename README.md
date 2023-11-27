@@ -15,4 +15,4 @@ This repository stores my solutions to the amazing low-level programming project
 
 ## Author :black_nib:
 
-* Ignacio Rivero <[rivero04](https://github.com/rivero04)>
+* Ignacio Rivero <a href="https://github.com/rivero04" rel="nofollow"><img align="center" alt="github" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="24" /></a>
