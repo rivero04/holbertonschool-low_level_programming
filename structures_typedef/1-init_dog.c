@@ -1,6 +1,6 @@
 #include "dog.h"
 /**
- * init_dog - inicializa una variable de tipo struct dog
+ * init_dog - inicializa una variable de tipo struct dog.
  * @d: un puntero a una struct dog
  * @name: el nombre a establecer
  * @age: edad a configurar
