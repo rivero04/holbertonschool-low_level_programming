@@ -21,8 +21,8 @@ hash_table_t *hash_table_create(unsigned long int size)
 	if (array == NULL)
 		return (NULL);
 
-	for (i < size; i++);
-		array[i] = NULL;
+	for (i = 0; i < size; i++)
+	array[i] = NULL;
 
 	hash_table->size = size;
 	hash_table->array = array;
