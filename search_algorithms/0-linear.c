@@ -1,5 +1,4 @@
 #include "search_algos.h"
-
 /**
  * linear_search - linear search algorithm
  * @array: array of ints
@@ -11,6 +10,7 @@
 int linear_search(int *array, size_t size, int value)
 {
 	size_t cont;
+	
 	cont = 0;
 
 	if (array == NULL)
